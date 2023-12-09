@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhavya
 - 👀 I’m interested in Developing web apps, mobile apps, exploring new tech
-- 🌱 I’m currently learning python and data analysis
 - 📫 raobhavya92@gmail.com
 
 <!---
